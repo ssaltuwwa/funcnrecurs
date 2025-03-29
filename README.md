@@ -1,4 +1,3 @@
-# funcnrecurs
 # Function and Recursion - Java Project
 
 ## Overview
